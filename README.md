@@ -1,2 +1,2 @@
-# Calculadora-Cient-fica-B-sica
+# Calculadora Científica Básica 
 CALCULADORA EM C++, QUE EXECUTA OPERAÇÕES CIENTÍFICAS BÁSICAS
